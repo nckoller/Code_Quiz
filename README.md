@@ -4,6 +4,7 @@ This is a timed quiz with multiple choice questions based on the following accep
 
 ## Acceptance Criteria
 
+```
 GIVEN I am taking a code quiz
 WHEN I click the start button
 THEN a timer starts and I am presented with a question
@@ -15,6 +16,7 @@ WHEN all questions are answered or the timer reaches 0
 THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
+```
 
 ### URL for Quiz
 
