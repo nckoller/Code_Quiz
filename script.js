@@ -160,15 +160,13 @@ function timerCount() {
 }
 
 function setQuestion() {
-  // console.log("event1");
   const questionToDisplay = questionsArr[nextQuestionIndex];
-  // console.log("event2");
+
   questionTextDiv.innerText = questionToDisplay.question;
-  // console.log("event3");
+
   questionToDisplay.answers.forEach(function (answer) {
-    // console.log("event4");
     const button = answerButtonsArr[questionToDisplay.answers.indexOf(answer)];
-    // console.log("event5");
+
     button.innerText = answer.text;
     button.classList.add("btn");
     button.setAttribute("correctAnswer", answer.correct);
