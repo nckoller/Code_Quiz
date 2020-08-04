@@ -222,7 +222,6 @@ function endGame() {
   // hides the timer until game restarts
   timer.classList.add("hide");
 
-  //show a div right next to it that contains "time: timeLeft" //hide the timer on the screen //however you set the text = timelefghlkjfdshglk
   // display start quiz button
   startButton.classList.remove("hide");
 }
