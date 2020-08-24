@@ -21,3 +21,19 @@ THEN I can save my initials and score
 ### URL for Quiz
 
 <https://nckoller.github.io/Code_Quiz/>
+
+## Demonstration of App
+
+<img src="./assets/Code_q_img1.png" alt="screenshot of webpage">
+<img src="./assets/Code_q_img2.png" alt="screenshot of webpage">
+<img src="./assets/Code_q_img3.png" alt="screenshot of webpage">
+
+## Tech Stack
+
+JavaScript
+HTML
+Bootstrap
+
+## Credits
+
+I created this code based on a homework prompt created by Trilogy Educaiton Services.
