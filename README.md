@@ -31,7 +31,9 @@ THEN I can save my initials and score
 ## Tech Stack
 
 JavaScript
+
 HTML
+
 Bootstrap
 
 ## Credits
